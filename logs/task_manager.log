@@ -1,0 +1,16 @@
+2025-03-21 12:44:36,744 - INFO - Tâches sauvegardées.
+2025-03-21 12:44:36,744 - INFO - Tâches sauvegardées.
+2025-03-21 12:44:36,751 - INFO - Tâche ajoutée : {'id': 1, 'description': 'Ma première tâche', 'priority': 2}
+2025-03-21 12:44:36,751 - INFO - Tâche ajoutée : {'id': 1, 'description': 'Ma première tâche', 'priority': 2}
+2025-03-21 12:44:45,412 - INFO - Liste des tâches récupérée.
+2025-03-21 12:44:45,412 - INFO - Liste des tâches récupérée.
+2025-03-21 12:44:57,458 - INFO - Tâches sauvegardées.
+2025-03-21 12:44:57,458 - INFO - Tâches sauvegardées.
+2025-03-21 12:44:57,458 - INFO - Tâche supprimée avec l'ID 1.
+2025-03-21 12:44:57,458 - INFO - Tâche supprimée avec l'ID 1.
+2025-03-21 12:51:09,980 - INFO - Tâches sauvegardées.
+2025-03-21 12:51:09,980 - INFO - Tâche ajoutée : {'id': 1, 'description': 'Test task', 'priority': 2}
+2025-03-21 12:51:10,016 - INFO - Tâches sauvegardées.
+2025-03-21 12:51:10,020 - INFO - Tâche ajoutée : {'id': 2, 'description': 'Task to delete', 'priority': 1}
+2025-03-21 12:51:10,039 - INFO - Tâches sauvegardées.
+2025-03-21 12:51:10,042 - INFO - Tâche supprimée avec l'ID 2.
